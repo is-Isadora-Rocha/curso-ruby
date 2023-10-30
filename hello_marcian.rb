@@ -1,0 +1,1 @@
+puts "Esse é o novo mundo!"
